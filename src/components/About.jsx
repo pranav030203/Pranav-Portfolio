@@ -29,7 +29,7 @@ const About = () => {
             <p className="my-2 max-w-xl py-6">{ABOUT_TEXT}</p>
             <a
             href="https://drive.google.com/file/d/1Y9tcFeHiBGF9sk6aZoUQVg_qlHYxKrA4/view?usp=sharing" // Replace with the actual path to your resume
-            className="mt-4 inline-block w-1/4 rounded bg-purple-800 px-6 py-3 text-white text-center font-semibold hover:bg-purple-900"
+            className="mt-4 inline-block w-1/3 rounded bg-purple-800 px-6 py-3 text-white text-center font-semibold hover:bg-purple-900"
             target="_blank"
             rel="noopener noreferrer"
             
